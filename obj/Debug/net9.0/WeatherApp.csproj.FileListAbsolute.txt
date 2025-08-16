@@ -1,0 +1,14 @@
+D:\c#\WeatherApp\bin\Debug\net9.0\WeatherApp.exe
+D:\c#\WeatherApp\bin\Debug\net9.0\WeatherApp.deps.json
+D:\c#\WeatherApp\bin\Debug\net9.0\WeatherApp.runtimeconfig.json
+D:\c#\WeatherApp\bin\Debug\net9.0\WeatherApp.dll
+D:\c#\WeatherApp\bin\Debug\net9.0\WeatherApp.pdb
+D:\c#\WeatherApp\obj\Debug\net9.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\WeatherApp\obj\Debug\net9.0\WeatherApp.AssemblyInfoInputs.cache
+D:\c#\WeatherApp\obj\Debug\net9.0\WeatherApp.AssemblyInfo.cs
+D:\c#\WeatherApp\obj\Debug\net9.0\WeatherApp.csproj.CoreCompileInputs.cache
+D:\c#\WeatherApp\obj\Debug\net9.0\WeatherApp.dll
+D:\c#\WeatherApp\obj\Debug\net9.0\refint\WeatherApp.dll
+D:\c#\WeatherApp\obj\Debug\net9.0\WeatherApp.pdb
+D:\c#\WeatherApp\obj\Debug\net9.0\WeatherApp.genruntimeconfig.cache
+D:\c#\WeatherApp\obj\Debug\net9.0\ref\WeatherApp.dll
